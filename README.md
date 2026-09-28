@@ -9,6 +9,7 @@ Esse projeto utiliza do personagem Berserker dos Barbarians para demonstrar algu
 
 Comandos
 
-<img width="396" height="420" alt="image" src="https://github.com/user-attachments/assets/3d206afb-a26e-4014-9078-bfc999eddcf7" />
+<img width="389" height="444" alt="image" src="https://github.com/user-attachments/assets/cd3e030c-5c01-47a9-ab59-6f70f9d34e1b" />
+
 
 Link para gameplay: https://play.unity.com/en/games/863b70e7-e3e5-4f93-9f80-13d1e75610ca/barbarian
